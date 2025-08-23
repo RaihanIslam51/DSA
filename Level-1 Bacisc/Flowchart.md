@@ -11,3 +11,7 @@
 -- Program create
 ### step 4:
 --Machine Understant code [0,1]
+
+## FlowChart :
+-- <img src="https://i.ibb.co/MyKWcM7M/basic-symbols-table.jpg" alt="Basic Symbols Table" width="600"/>
+
